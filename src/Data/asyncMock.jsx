@@ -4,7 +4,7 @@ const products = [
     name: 'Camiseta Visitante Chile 2024',
     description: 'La camiseta visitante de la selección chilena 2024 presenta un elegante diseño en azul oscuro, complementado con detalles en rojo y blanco que reflejan la identidad nacional.',
     price: 30000,
-    image: 'public/ChileVisitante.jpg',
+    image: 'public/Chilevisitante.jpg',
     category: 'Chile'
   },
   {
